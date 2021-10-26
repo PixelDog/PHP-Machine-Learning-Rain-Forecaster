@@ -39,7 +39,7 @@ php machine_learning_rain_prediction.php
 
 Suggestions for your learning:
 1) Play with the data in weather.csv to create your own samples.
-Head to https://www.wunderground.com/history and build a sample
+Head to https://www.wunderground.com/history and build a sample set
 for your city.
 2) Build an unknown.csv and load that instead of the hard coded
 unknown samples in machine_learning_rain_prediction.php.
