@@ -32,6 +32,7 @@ TESTING / USAGE: machine_learning_rain_prediction.php command line script
 -------------------------------------------------------------------
 
 Test:
+
 See the predictions from the weather.csv samples and the unknown
 samples in machine_learning_rain_prediction.php. From the command line, run:
 php machine_learning_rain_prediction.php
