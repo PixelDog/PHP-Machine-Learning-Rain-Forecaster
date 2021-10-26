@@ -1,0 +1,15 @@
+{
+    "name": "keith/php-ml-rain-predictor",
+    "description": "PHP Machine Learning Rain Predictor.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "PixelDog",
+            "email": "kaozotto@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "rubix/ml": "^1.2"
+    }
+}
